@@ -1,0 +1,7 @@
+D:\унив\3 курс\ІПЗ\fibonachi_numbers\bin\Debug\fibonachi_numbers.exe.config
+D:\унив\3 курс\ІПЗ\fibonachi_numbers\bin\Debug\fibonachi_numbers.exe
+D:\унив\3 курс\ІПЗ\fibonachi_numbers\bin\Debug\fibonachi_numbers.pdb
+D:\унив\3 курс\ІПЗ\fibonachi_numbers\obj\Debug\fibonachi_numbers.csprojAssemblyReference.cache
+D:\унив\3 курс\ІПЗ\fibonachi_numbers\obj\Debug\fibonachi_numbers.csproj.CoreCompileInputs.cache
+D:\унив\3 курс\ІПЗ\fibonachi_numbers\obj\Debug\fibonachi_numbers.exe
+D:\унив\3 курс\ІПЗ\fibonachi_numbers\obj\Debug\fibonachi_numbers.pdb
